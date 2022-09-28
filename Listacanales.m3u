@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1,Claro Sports3
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+
+#EXTINF:-1,TUDN
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/3_.m3u8?token=XWOccSc6qjgED1bzhhxP1Q&expires=1664354212
+
+#EXTINF:-1,TNT SPORT
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/9_.m3u8?token=IGVltwDi96sfx9sVFHkunQ&expires=1664354330
+
+#EXTINF:-1,ESPN PREMIUN
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/10_.m3u8?token=695et9hHL86pywzrKZV8mw&expires=1664354428
+
+#EXTINF:-1,TYC SPORT
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/11_.m3u8?token=j03mbXbDQaIvj__jg2nsqQ&expires=1664354498
