@@ -1,16 +1,119 @@
 #EXTM3U
 
-#EXTINF:-1,Claro Sports3
+#EXTINF:-1  group-title=»DEPORTES»,Claro Sports3
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 
-#EXTINF:-1,TUDN
+#EXTINF:-1 group-title=»DEPORTES»,TIGO SPORTS
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/201_.m3u8?token=n43LYm35A7Gr7vsL3qvVRA&expires=1664356285
+
+#EXTINF:-1 group-title=»DEPORTES»,TUDN
 https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/3_.m3u8?token=XWOccSc6qjgED1bzhhxP1Q&expires=1664354212
 
-#EXTINF:-1,TNT SPORT
+#EXTINF:-1 group-title=»DEPORTES»,TNT SPORT
 https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/9_.m3u8?token=IGVltwDi96sfx9sVFHkunQ&expires=1664354330
 
-#EXTINF:-1,ESPN PREMIUN
+#EXTINF:-1 group-title=»DEPORTES»,ESPN PREMIUN
 https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/10_.m3u8?token=695et9hHL86pywzrKZV8mw&expires=1664354428
 
-#EXTINF:-1,TYC SPORT
+#EXTINF:-1 group-title=»DEPORTES»,TYC SPORT
 https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/11_.m3u8?token=j03mbXbDQaIvj__jg2nsqQ&expires=1664354498
+
+#EXTINF:-1 group-title=»DEPORTES»,MOVISTAR DEPORTES
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/194_.m3u8?token=5E4nBlN3oOBgiu_2aLgBLg&expires=1664354742
+
+#EXTINF:-1 group-title=»DEPORTES»,MOVISTAR F1
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/199_.m3u8?token=mTgdABzS9wMwsJNSDL1JVw&expires=1664354839
+
+#EXTINF:-1 group-title=»DEPORTES»,BEIN SPORTS
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/23_.m3u8?token=0sgi1jgNZot5AKDGORL9sw&expires=1664354896
+
+#EXTINF:-1 group-title=»DEPORTES»,FOX SPORTS 2
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/13_.m3u8?token=3EKMlNznItrHyHO3fo1-fA&expires=1664355034
+
+#EXTINF:-1 group-title=»DEPORTES»,FOX SPORTS 3
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/14_.m3u8?token=hzA-hUnRzVExJF4WlKBvKQ&expires=1664355090
+
+#EXTINF:-1 group-title=»DEPORTES»,ESPN EXTRA
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/16_.m3u8?token=sBuWKcbEPaxdNGkFpqPGMA&expires=1664355199
+
+#EXTINF:-1 group-title=»DEPORTES»,ESPN
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/17_.m3u8?token=rsyprPfyjRsc4E8a0et2DQ&expires=1664355268
+
+#EXTINF:-1 group-title=»DEPORTES»,ESPN 2
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/18_.m3u8?token=Kus_Gnohh6bg35AUiGojNg&expires=1664355308
+
+#EXTINF:-1 group-title=»DEPORTES»,ESPN 3
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/19_.m3u8?token=zjU8W9-VvHMo4Gxg-EBrtA&expires=1664355343
+
+#EXTINF:-1 group-title=»DEPORTES», DIRECT TV SPORTS
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/20_.m3u8?token=GhAigPgLKVqaCvUpewjpbQ&expires=1664355371
+
+#EXTINF:-1 group-title=»DEPORTES», FOX SPORTS MEXICO
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/24_.m3u8?token=Vw0L7dG62v4cH41bHanarQ&expires=1664355416
+
+#EXTINF:-1 group-title=»DEPORTES», FOX SPORTS 2 MEXICO
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/25_.m3u8?token=oUpPfZqj0vg8QcHUw2rW0g&expires=1664355449
+
+#EXTINF:-1 group-title=»DEPORTES», FOX SPORTS 3 MEXICO
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/26_.m3u8?token=D7SxB-iP5vRbyjrnosFSmw&expires=1664355533
+
+#EXTINF:-1 group-title=»DEPORTES», ESPN MEXICO
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/27_.m3u8?token=17Q-CLk7yuimXJGt8auCuA&expires=1664355601
+
+#EXTINF:-1 group-title=»DEPORTES», ESPN 2 MEXICO
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/28_.m3u8?token=2OGU3GzI-mYLRvZHIam4Xg&expires=1664355650
+
+#EXTINF:-1 group-title=»DEPORTES», ESPN 3 MEXICO
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/29_.m3u8?token=2-nX5TF_Nz589EU0-xT92A&expires=1664355667
+
+#EXTINF:-1 group-title=»DEPORTES», CANAL 5
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/2_.m3u8?token=q0vU3SrHytJ3ow3KopVhEA&expires=1664355558
+
+#EXTINF:-1 group-title=»PELICULAS Y SERIES», FOX ACTION
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/138_.m3u8?token=YivGXqgUeaObugl13LpgAw&expires=1664355685
+
+#EXTINF:-1 group-title=»PELICULAS Y SERIES», FOX SERIES
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/38_.m3u8?token=f1Sm334eSPACTYfrg9KX2Q&expires=1664355751
+
+#EXTINF:-1, UNIVERSAL REALITY
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/68_.m3u8?token=2QRVOGXVOr3O_l_w1Vu5EA&expires=1664355777
+
+#EXTINF:-1 group-title=»PELICULAS Y SERIES», SPACE
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/39_.m3u8?token=q9ZosTcUJyFJRMYvC-QykQ&expires=1664355818
+
+#EXTINF:-1 group-title=»PELICULAS Y SERIES», WARNER
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/40_.m3u8?token=PkpxJ5lF6cwlzRcygCzNHA&expires=1664355848
+
+#EXTINF:-1 group-title=»PELICULAS Y SERIES», TNT
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/41_.m3u8?token=tIyFtkwgq54TtAN7huF2dQ&expires=1664355878
+
+#EXTINF:-1 group-title=»PELICULAS Y SERIES», TNT SERIES
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/76_.m3u8?token=TaDi8GUwCESUbWHkURiTQQ&expires=1664355930
+
+#EXTINF:-1 group-title=»PELICULAS Y SERIES», FX
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/70_.m3u8?token=LM-9IBrwHzx_wlK_NgieKw&expires=1664355998
+
+#EXTINF:-1 group-title=»PELICULAS Y SERIES», CINECANAL
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/44_.m3u8?token=tCGz4Q3RqQXbP4kpaYYfoQ&expires=1664356060
+
+#EXTINF:-1 group-title=»PELICULAS Y SERIES», SYFY
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/58_.m3u8?token=qlze1M7ZV71K8KqGB3Xh6g&expires=1664356091
+
+#EXTINF:-1 group-title=»PELICULAS Y SERIES», GOLDEN
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/202_.m3u8?token=hHkH0M39Shwv7Q2N2iRdQg&expires=1664356122
+
+#EXTINF:-1 group-title=»PELICULAS Y SERIES», GOLDEN PLUS
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/73_.m3u8?token=NKe3CVLZfnzhOlUpatVWyg&expires=1664356142
+
+#EXTINF:-1 group-title=»PELICULAS Y SERIES», GOLDEN EDGE
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/74_.m3u8?token=X1ewK6jdTY3n5RqwbVUhiw&expires=1664356168
+
+#EXTINF:-1 group-title=»PELICULAS Y SERIES», AXN
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/78_.m3u8?token=UynhNDVfYy46S-AzaYPQGA&expires=1664356203
+
+#EXTINF:-1 group-title=»PELICULAS Y SERIES», AMC
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/82_.m3u8?token=FR8fBmCoIIHNm8wtcsyYpg&expires=1664356223
+
+#EXTINF:-1group-title=»INFANTIL», DISNEY JUNIOR
+https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/109_.m3u8?token=fjBHz14_jXuSysjrfBIYxQ&expires=1664356251
+
