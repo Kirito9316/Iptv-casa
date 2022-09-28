@@ -1,7 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1, tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN-500x300.png" group-title="DEPORTES",ESPN
+https://pelotero.net/espnhd.php
 https://cdn.castmax.live/hls/espnhd.m3u8
 
 #EXTINF:-1, tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/1398/brand.gif?itok=qK15mOWo" group-title="DEPORTES",ESPN 2
+https://pelotero.net/espn2hd.php
 https://e11.zorritohd.net/live/ST70fe1e86ba56daf.m3u8
