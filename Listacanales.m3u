@@ -6,13 +6,13 @@ https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 #EXTINF:-1 group-title=»DEPORTES»,TIGO SPORTS
 https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/201_.m3u8?token=n43LYm35A7Gr7vsL3qvVRA&expires=1664356285
 
-#EXTINF:-1 group-title=»DEPORTES»,TUDN
-https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/3_.m3u8?token=XWOccSc6qjgED1bzhhxP1Q&expires=1664354212
+#EXTINF:-1 grupo-titulo=»DEPORTES»,TUDN
+<script type='text/javascript'> width='100%', height='100%', id='tudn';</script><script type='text/javascript' src='http://www.telelatinohd.com/embed.js'></script>
 
-#EXTINF:-1 group-title=»DEPORTES»,TNT SPORT
+#EXTINF:-1 grupo-título=»DEPORTES»,TNT SPORT
 https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/9_.m3u8?token=IGVltwDi96sfx9sVFHkunQ&expires=1664354330
 
-#EXTINF:-1 group-title=»DEPORTES»,ESPN PREMIUN
+#EXTINF:-1 grupo-titulo=»DEPORTES», ESPN PREMIUN
 https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/10_.m3u8?token=695et9hHL86pywzrKZV8mw&expires=1664354428
 
 #EXTINF:-1 group-title=»DEPORTES»,TYC SPORT
