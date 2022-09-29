@@ -9,8 +9,8 @@ https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/201_.m3u8?token=n43LYm35
 #EXTINF:-1 grupo-titulo=»DEPORTES»,TUDN
 <script type='text/javascript'> width='100%', height='100%', id='tudn';</script><script type='text/javascript' src='http://www.telelatinohd.com/embed.js'></script>
 
-#EXTINF:-1 grupo-título=»DEPORTES»,TNT SPORT
-https://edge-live17-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD-mp4a_145200_spa=20001-scale=48000-11728757009737.mp4
+#EXTINF:-1 grupo-título=»DEPORTES»,TNT SPORT CHILE
+https://e00.zorritohd.net/live/ST4732212b5db6be5.m3u8
 
 #EXTINF:-1 grupo-titulo=»DEPORTES», ESPN PREMIUN
 https://live.telelatinohd.com:8080/MTkwLjg2LjMzLjEzNw==/10_.m3u8?token=695et9hHL86pywzrKZV8mw&expires=1664354428
