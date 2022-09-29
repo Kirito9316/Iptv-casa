@@ -6,14 +6,14 @@ https://claro-jw.cdn.vustreams.com/live/channel05/live.isml/master.m3u8
 #EXTINF:-1  group-title=DEPORTES,Claro Sports3
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 
+#EXTINF:-1  group-title=DEPORTES,ESPN
+https://infinity-c15.youboranqs01.com/ping?diffTime=5910&bitrate=-1&throughput=-1&bufferDuration=39671&droppedFrames=0&playrate=1&timemark=1664422953251&sessionRoot=U_20001410_20220929_7fiqy5iy8n20r05c&pingTime=5&code=U_20001410_20220929_7fiqy5iy8n20r05c_1664422815430
+
 #EXTINF:-1  group-title=VARIADO,Santa Fe Canal
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 #EXTINF:-1  group-title=VARIADO,TV5
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-
-#EXTINF:-1  group-title=PELICULAS,Claro Cinema
-https://www.clarovideo.com/elsalvador/watch/897093
 
 #EXTINF:-1  group-title=RELIGIOSOS,3ABN
 https://3abn-live.akamaized.net/hls/live/2010547/Latino/playlist.m3u8
