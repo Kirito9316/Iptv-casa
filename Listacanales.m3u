@@ -6,8 +6,14 @@ https://claro-jw.cdn.vustreams.com/live/channel05/live.isml/master.m3u8
 #EXTINF:-1  group-title=DEPORTES,Claro Sports3
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 
-#EXTINF:-1  group-title=DEPORTES,Gol Peru
-https://e00.zorritohd.net/live/ST42cf91fbbf960dc.m3u8
+#EXTINF:-1  group-title=DEPORTES,BEIN SPORTS XTRA Ñ
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+
+#EXTINF:-1  group-title=DEPORTES audio-track=spa,WWE 
+https://h5.ustvgo.la/WWE/myStream/chunks.m3u8?nimblesessionid=171165171&wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDIyIDQ6Mjk6MzkgQU0maGFzaF92YWx1ZT1SLzJLY1FFOUFuTGRoYTE5dFh5ZmtRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF:-1  group-title=PELICULAS Y SERIES,TNT
+https://video-weaver.yto01.hls.ttvnw.net/v1/playlist/CowF6fzuc5l9Kp4AXgXm_QNHwgvQAk_pGXwQk82OWllPFfRG-0zg3EHnffZhQDbI6hXm-awAKQS7_lq8gYRo-7qZdGprIX581JH4aqqTmZiYiGxkDKUhfE6016LX8BBKq8t1QlKrfUgCCqKf2GlF7UG3WP5tyFDB6igD29vk-fkpITyqxfNZVwtihEm3r7IJvYvYJVtENVlx-mw9QBR-O2ikvnHk2_68bGaRfKePxKLIvW8ieqcczokQ_tL_abgAJQ9Suh60AU38HYBCX99Lpud0AeG0YLYohveLYeHOQfNgqUaMMiUqQ2hPf8CwZ8eTBYsj3-_BQjowdaiTqM66ug_XqiLJWLzVbk29q4etJa_eoPAP_xzAE-_iHTr08J6dMoJ-4GWpOjhAXcEiyL60zmrm1Q0NSo7mCdE0dcHbUBhByAeWDygSg5Ks1lzS4QKbqUGePvC6o2-7nqx60Xm4vqziTBu2QvdS39yeMhblOQhtYZCROV51PsSBEoDURUW7f6mpMCqs_JM7Rh3Cx6j9kByphisMO2cvVRP5ZkaaE2_qnjr6QAP7iR0h157TiieKpsKHO3ckEs03ubvnYsXs1gIlSXQzVFQc7jl24A7MOeu6Zo6KykK8X1KZFwcE20reFfLZ1J4-nDqErnb23RpkrrTG2Jti_QNsstAAyIupF4T-mT4m42M78XQYf2T9sy0g0KVkNHDYMplHsnCAc8cf9L3zRsDAnyUAsj8lAVhB1_tydO-gK0VBxbRcQxNUZnsrozJS2A0R73UOtwWp1tMCwgxmJt2_SpyCJ7UYQvRtUWW9flkNn_RhQMJXm899HTBDAVfpuuQq3sSX1nqwbX3zAYESuRQ-BYR67F7c88-dfRoM8MS4zkS3jyjFybV-IAEqCWV1LXdlc3QtMjDlBA.m3u8
 
 #EXTINF:-1  group-title=NOTICIAS,A24
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/A24com/live
