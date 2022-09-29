@@ -6,8 +6,11 @@ https://claro-jw.cdn.vustreams.com/live/channel05/live.isml/master.m3u8
 #EXTINF:-1  group-title=DEPORTES,Claro Sports3
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 
-#EXTINF:-1  group-title=DEPORTES,ESPN
-https://infinity-c15.youboranqs01.com/ping?diffTime=5910&bitrate=-1&throughput=-1&bufferDuration=39671&droppedFrames=0&playrate=1&timemark=1664422953251&sessionRoot=U_20001410_20220929_7fiqy5iy8n20r05c&pingTime=5&code=U_20001410_20220929_7fiqy5iy8n20r05c_1664422815430
+#EXTINF:-1  group-title=DEPORTES,Gol Peru
+https://e00.zorritohd.net/live/ST42cf91fbbf960dc.m3u8
+
+#EXTINF:-1  group-title=NOTICIAS,A24
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/A24com/live
 
 #EXTINF:-1  group-title=VARIADO,Santa Fe Canal
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
@@ -15,6 +18,14 @@ https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1  group-title=VARIADO,TV5
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
+#EXTINF:-1  group-title=VARIADO,A3S
+https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606      
+
 #EXTINF:-1  group-title=RELIGIOSOS,3ABN
 https://3abn-live.akamaized.net/hls/live/2010547/Latino/playlist.m3u8
 
+#EXTINF:-1  group-title=MUSICAL,RADIO TV
+http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
+
+#EXTINF:-1  group-title=MUSICAL,49.3 TVD
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
