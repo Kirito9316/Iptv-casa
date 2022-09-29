@@ -29,3 +29,119 @@ https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/CowFa9mIazNgLq7hFFAZjfyxO5i
 
 #EXTINF:-1  group-title=INFANTIL,Bob Esponja 24/7
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=9702&deviceDNT=0&deviceModel=0&already_redirected=true
+
+#EXTINF:-1,Nickelodeon
+
+http://B29273.cdn.telefonica.com/29273/NICK_SUB.m3u8
+
+#EXTINF:-1,Disney Junior
+
+http://B29285.cdn.telefonica.com/29285/DSNJR_SUB.m3u8
+
+#EXTINF:-1,40TV
+
+http://B31312.cdn.telefonica.com/31312/40TV_SUB.m3u8
+
+#EXTINF:-1,DisneyXD
+
+http://B31309.cdn.telefonica.com/31309/DSNYXD_SUB.m3u8
+
+#EXTINF:-1,Canal Cocina
+
+http://B31305.cdn.telefonica.com/31305/COCINA_SUB.m3u8
+
+#EXTINF:-1,24 Horas
+
+http://B31301.cdn.telefonica.com/31301/24HORAS_SUB.m3u8
+
+#EXTINF:-1,Invitado
+
+http://B29291.cdn.telefonica.com/29291/INVITADO_SUB.m3u8
+
+#EXTINF:-1,Zorro
+
+http://B29269.cdn.telefonica.com/29269/FOX_SUB.m3u8
+
+#EXTINF:-1,AXN
+
+http://B29278.cdn.telefonica.com/29278/AXN_SUB.m3u8
+
+#EXTINF:-1, Calle 13
+
+http://B29270.cdn.telefonica.com/29270/CLL13_SUB.m3u8
+
+#EXTINF:-1,TNT
+
+http://B29280.cdn.telefonica.com/29280/TNT_SUB.m3u8
+
+#EXTINF:-1,Vida de zorro
+
+http://B31317.cdn.telefonica.com/31317/FOXCRIME_SUB.m3u8
+
+#EXTINF:-1,Cosmopolita
+
+http://B29283.cdn.telefonica.com/29283/CSMO_SUB.m3u8
+
+#EXTINF:-1,AXN Blanco
+
+http://B31316.cdn.telefonica.com/31316/AXNWHITE_SUB.m3u8
+
+#EXTINF:-1, comedia primordial
+
+http://B29281.cdn.telefonica.com/29281/PCMDY_SUB.m3u8
+
+#EXTINF:-1,SYFY
+
+http://B31311.cdn.telefonica.com/31311/SYFY_SUB.m3u8
+
+#EXTINF:-1,MTC
+
+http://B31310.cdn.telefonica.com/31310/TCM_SUB.m3u8
+
+#EXTINF:-1,Canal+Liga
+
+http://B29276.cdn.telefonica.com/29276/CPLUSLG_SUB.m3u8
+
+#EXTINF:-1,Movistar Fútbol
+
+http://B32861.cdn.telefonica.com/32861/MOVFUTBOL_SUB.m3u8
+
+#EXTINF:-1,Campeones de Canal+
+
+http://B29275.cdn.telefonica.com/29275/CPLUSCHP_SUB.m3u8
+
+#EXTINF:-1, National Geographic
+
+http://B29287.cdn.telefonica.com/29287/NTLG_SUB.m3u8
+
+#EXTINF:-1, comodín geográfico nacional
+
+http://B31307.cdn.telefonica.com/31307/NATGEOWILD_SUB.m3u8
+
+#EXTINF:-1,[000] Movistar TV - Promocional
+
+rtp://@239.0.0.77:8208
+
+#EXTINF:-1,[001] La 1
+
+rtp://@239.0.0.76:8208
+
+#EXTINF:-1,[002] La 2
+
+rtp://@239.0.0.2:8208
+
+#EXTINF:-1,[003] Antena 3
+
+rtp://@239.0.0.3:8208
+
+#EXTINF:-1,[004] Cuatro
+
+rtp://@239.0.0.4:8208
+
+#EXTINF:-1,[005] Tele5
+
+rtp://@239.0.0.5:8208
+
+#EXTINF:-1,[006] La Sexta
+
+rtp://@239.0.0.58:8208
