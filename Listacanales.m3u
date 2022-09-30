@@ -1,10 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title=DEPORTES,Claro Sports
-https://claro-jw.cdn.vustreams.com/live/channel05/live.isml/master.m3u8
-
-#EXTINF:-1  group-title=DEPORTES,ESPN
-https://e00.zorritohd.net/live/ST42cf91fbbf960dc.m3u8
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 
 #EXTINF:-1  group-title=DEPORTES,BEIN SPORTS XTRA Ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
